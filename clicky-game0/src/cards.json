@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Broly",
+    "image": "https://dotandline.net/wp-content/uploads/2019/01/1ux08ON3fMBSROa1GqJIh-Q.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Armored Titan",
+    "image": "https://vignette.wikia.nocookie.net/shingekinokyojin/images/c/cf/Armored_Titan_%28Anime%29_character_image_%28Reiner_Braun%29.png/revision/latest?cb=20170507070844",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Colossal Titan",
+    "image": "https://vignette.wikia.nocookie.net/shingekinokyojin/images/c/c9/Colossal_Titan_%28Anime%29_character_image_%28Bertholdt_Hoover%29.png/revision/latest?cb=20170513151438",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Kisuke Urahara",
+    "image": "https://ilarge.lisimg.com/image/17036671/1023full-kisuke-urahara.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Madara Uchiha",
+    "image": "https://i.pinimg.com/originals/d7/6b/b7/d76bb784ceec9745b74ba759daf836c0.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Jiren The Grey",
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/4/44/DYhyhpOVQAAtxCm.jpg/revision/latest?cb=20180318015250",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Ultra Instinct Goku",
+    "image": "https://i.ytimg.com/vi/FCEvOYYoBnY/maxresdefault.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Naruto Uzumaki",
+    "image": "http://pm1.narvii.com/6224/2c8b6b793f3e6b007ddedf6a3e7f154f8d96c0e1_00.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Tanjiro Kamado",
+    "image": "https://www.ubackground.com/_ph/4/820124515.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Johnathan Joestar",
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/jonathan-joestar-jojos-bizarre-adventure-all-star-battle-81.5.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Edward Elric",
+    "image": "https://cdn.wallpapersafari.com/52/1/DatibP.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Afro",
+    "image": "https://cdn.vox-cdn.com/thumbor/O-2ekts_Dc9XJqtlfBl1P7P08Zw=/62x0:1862x1200/1200x800/filters:focal(62x0:1862x1200)/cdn.vox-cdn.com/uploads/chorus_image/image/47707069/Afro-afro-samurai-7608256-1920-1200.0.jpg",
+    "count": 0
+  },
+  {
+    "id": 13,
+    "name": "Ichigo Kurosaki",
+    "image": "https://i.ytimg.com/vi/qV64nZr-EfI/maxresdefault.jpg",
+    "count": 0
+  },
+  {
+    "id": 14,
+    "name": "Monkey D. Luffy",
+    "image": "https://i.pinimg.com/originals/c0/03/de/c003de1d4027c4558851b893032694d2.jpg",
+    "count": 0
+  },
+  {
+    "id": 15,
+    "name": "Vegeta",
+    "image": "https://i.ytimg.com/vi/mBURiw8N_34/maxresdefault.jpg",
+    "count": 0
+  }
+]
