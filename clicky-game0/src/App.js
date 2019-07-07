@@ -6,13 +6,11 @@ import cards from "./cards.json";
 import "./App.css";
 
 class App extends Component {
-  // Setting this.state.cards to the cards json array
   state = {
     cards,
     score: 0,
     highscore: 0
   };
-
   gameOver = () => {
     if (this.state.score > this.state.highscore) {
       this.setState({highscore: this.state.score}, function() {
@@ -26,7 +24,6 @@ class App extends Component {
     this.setState({score: 0});
     return true;
   }
-
   clickCount = id => {
     this.state.cards.find((o, i) => {
       if (o.id === id) {
@@ -43,7 +40,6 @@ class App extends Component {
       }
     });
   }
-  // Map over this.state.cards and render a cardCard component for each card object
   render() {
     return (
       <Wrapper>
